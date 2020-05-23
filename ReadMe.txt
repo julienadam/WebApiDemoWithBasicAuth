@@ -8,4 +8,5 @@ The sample automatically populates the Identity database with a sample user.
 
 To run the sample, first start the server; then run the client and press ENTER.
 
+You may need to create the App_Data folder manually on first run
 
